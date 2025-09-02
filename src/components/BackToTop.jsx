@@ -25,7 +25,7 @@ const BackToTop = () => {
             } hover:bg-[var(--primary-color-hover)]`}
             aria-label="Back to top"
         >
-            <FontAwesomeIcon icon={faArrowUp} className="h-6 w-6" />
+            <FontAwesomeIcon icon={faArrowUp} className="h-6 w-6" />⬆
         </button>
     );
 };
